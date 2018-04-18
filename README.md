@@ -2,7 +2,7 @@
 Game implementation using React inspired by the tutorial on https://reactjs.org
 
 # Next Steps:
-### Refactor to use TypeScript ( TSX )
+### Refactor to use TypeScript ( TSX ) - Done
 
 ### Implement unit tests
 
