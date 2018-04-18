@@ -4,10 +4,6 @@ Game implementation using React inspired by the tutorial on https://reactjs.org
 # Next Steps:
 ### Refactor to use TypeScript ( TSX ) - Done
 
-### Implement unit tests
-
-### Implement e2e tests
-
 ### Implement the following suggestions
 
 1. Display the location for each move in the format (col, row) in the move history list.
